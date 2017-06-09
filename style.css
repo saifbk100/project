@@ -1,0 +1,29 @@
+*body{margin: 100%,
+      padding:0;}
+.head{background-color: #009688;
+       background-color: #009688;
+    margin-top: -19px;
+    padding-bottom: 8px;
+    margin-left: -8px;
+    color: white;}
+.head h3{margin-left: 174px;
+    display: inline-block;
+    margin-bottom: 15px;}
+.foooter{background-color: #4CAF50;
+    margin-top: -25px;
+    padding-bottom: 14px;}
+.fm{    display: inline-block;
+    float: right;
+    font-size: 18px;
+    background-color: wheat;
+    padding-left: 101px;
+    padding-right: 100px;
+    padding-top: 30px;
+    margin-top: 150px;
+    margin-right: 116px;
+    padding-bottom: 46px;
+}
+.container{background-image:url(shop.jpg);
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-size: cover;}
